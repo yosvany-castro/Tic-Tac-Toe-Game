@@ -1,4 +1,5 @@
 import TicTacToe from './TicTacToe'
+import Kassandra from './kass'
 
 function App() {
 
